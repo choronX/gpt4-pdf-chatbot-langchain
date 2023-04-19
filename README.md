@@ -1,0 +1,1 @@
+Basic Chatbot with LangChain, Pinecone, Typescript, Openai, and Next.js.
